@@ -19,14 +19,14 @@ rvm use 1.9.3
 You can use [Bundler](http://bundler.io/) to install dependencies.
 
 ```bash
-cd openvj-git-layer
+#cd openvj-git-service
 bundle install
 ```
 
-# Start the layer service
+# Start
 
 ```bash
-cd openvj-git-layer
+#cd openvj-git-service
 rackup
 ```
 
