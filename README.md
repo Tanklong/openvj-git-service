@@ -1,7 +1,7 @@
-openvj-git-layer
-================
+openvj-git-service
+==================
 
-The Git Layer for OpenVJ
+The Git Service for OpenVJ
 
 # Requirements
 
